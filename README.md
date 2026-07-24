@@ -1,4 +1,5 @@
 <img width="512" height="512" alt="ic_launcher-playstore" src="https://github.com/user-attachments/assets/ff06c868-84ff-41f8-b229-27b3709fd458" />
+
 # Notes
 This is my first android application
 
