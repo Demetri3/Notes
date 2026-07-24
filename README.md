@@ -2,7 +2,7 @@
 Notes is a minimalist application for those who want true simplicity. Built with the latest Android technologies, it combines a sleek, grid-based design with an intuitive user experience that adapts perfectly to any device.
 App Icon <img width="512" height="512" alt="ic_launcher-playstore" src="https://github.com/user-attachments/assets/ff06c868-84ff-41f8-b229-27b3709fd458" />
 
-Features:
+
 
 ## 🌈 Vibrant Staggered Grid
 Break away from boring lists. Notes displays your thoughts in a dynamic, colorful staggered grid that gives you a visual overview of your workspace at a glance.
@@ -54,4 +54,4 @@ For the developers and enthusiasts, Notes is powered by the cutting edge of the 
 
 
 
-"Your mind is for having ideas, not holding them. Let Notes hold them for you—in style."
+
