@@ -1,6 +1,6 @@
 # 📑 Notes: Capture Life in Color
 Notes is a minimalist application for those who want true simplicity. Built with the latest Android technologies, it combines a sleek, grid-based design with an intuitive user experience that adapts perfectly to any device.
-App Icon <img width="512" height="512" alt="ic_launcher-playstore" src="https://github.com/user-attachments/assets/ff06c868-84ff-41f8-b229-27b3709fd458" />
+<img width="256" height="256" alt="ic_launcher-playstore" src="https://github.com/user-attachments/assets/ff06c868-84ff-41f8-b229-27b3709fd458" />
 
 
 
