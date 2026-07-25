@@ -40,6 +40,9 @@ Finding your notes is instantaneous. As you type in the animated search bar, the
    
 3. Create: Tap the + button and start taking notes
 
+
+## Known Quirks:
+- Inability to delete notes
    
 
 
